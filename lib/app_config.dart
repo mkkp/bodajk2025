@@ -22,7 +22,7 @@ class AppConfig {
   static const bool isAllUnit = false;
   static const bool isAppSupported = true;
 
-  static const String webLink = "https://bodajk2025.mkkp.party";
+  static const String webLink = "https://mkkp.github.io/bodajk2025/";
   static const String appStoreLink = "";
   static const String playStoreLink = "";
   static const String playStoreLaunchLink = "";
