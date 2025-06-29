@@ -3115,7 +3115,7 @@ cAH:function cAH(){},
 cAI:function cAI(){},
 cNx(d){var w
 if(d.length===0)return""
-w="https://bodajk2025.mkkp.party/#/form/"+d
+w=y.e+d
 return"       <p>"+A.p("FormsFeature.formAvailableAt",null)+':<br>\n       <a href="'+w+'">'+w+"</a></p>\n     "},
 blU(d,e,f){return B.dms(d,e,f)},
 dms(d,e,f){var w=0,v=A.k(x.H),u,t,s,r,q,p,o
@@ -4192,10 +4192,10 @@ case 4:r=B.d1J(5)
 w=6
 return A.d(B.arR(f,r),$async$aai)
 case 6:case 5:s.a=r
-t=s.b="https://bodajk2025.mkkp.party/#/scan/"+r
+t=s.b=y.m+r
 s.c='<a href="'+t+'">'+t+"</a>"
 w=7
-return A.d(A.e7(null,null,!0,null,new B.bRY(s,e,f,"https://bodajk2025.mkkp.party/#/scan/"),d,null,!0,!0,x.z),$async$aai)
+return A.d(A.e7(null,null,!0,null,new B.bRY(s,e,f,y.m),d,null,!0,!0,x.z),$async$aai)
 case 7:u=!1
 w=1
 break
@@ -8956,7 +8956,7 @@ v.X$=0
 w.ai()},
 arl(d){var w
 if(d.length===0)return""
-w="https://bodajk2025.mkkp.party/#/form/"+d
+w=y.e+d
 return"       <p>"+A.p("FormsFeature.formAvailableAt",null)+':<br>\n       <a href="'+w+'">'+w+"</a></p>\n     "},
 bzJ(){this.y.sn(0,this.arl(this.w.a.a))},
 Nx(){var w=0,v=A.k(x.H),u,t=this,s,r,q,p
@@ -15854,7 +15854,7 @@ w(B.akn,A.eq)
 v(B.aXR,E.MV)})()
 A.ce(b.typeUniverse,JSON.parse('{"GC":{"a4":["1"],"D":["1"],"b2":["1"],"w":["1"],"a4.E":"1","w.E":"1"},"x6":{"ad":[],"e":[]},"a71":{"L":[],"e":[]},"agr":{"N":["a71"]},"aQj":{"dE":["O?"]},"aMD":{"bB":[],"aP":[],"e":[]},"aTH":{"Z":[],"bu":["Z"],"Y":[],"aQ":[]},"aMF":{"ne":["yr","Z"],"aP":[],"e":[],"ne.0":"yr","ne.1":"Z"},"agB":{"Z":[],"u7":["yr","Z"],"Y":[],"aQ":[]},"aop":{"ad":[],"e":[]},"M9":{"ad":[],"e":[]},"UD":{"ad":[],"e":[]},"aTD":{"ay":[]},"a7a":{"L":[],"e":[]},"aTE":{"N":["qI"]},"a78":{"L":[],"e":[]},"a79":{"N":["a78"]},"a7L":{"L":[],"e":[]},"ah8":{"N":["a7L"]},"ah7":{"jU":["N<L>"],"hn":["N<L>"],"fr":[],"hn.T":"N<L>","jU.T":"N<L>"},"dkD":{"bz":[],"bq":[],"e":[]},"a9m":{"L":[],"e":[]},"UK":{"N":["a9m"]},"ah5":{"L":[],"e":[]},"XH":{"N":["ah5"]},"a7K":{"ad":[],"e":[]},"aOr":{"ad":[],"e":[]},"ah6":{"jU":["N<L>"],"hn":["N<L>"],"fr":[],"hn.T":"N<L>","jU.T":"N<L>"},"YZ":{"L":[],"e":[]},"acl":{"N":["YZ"]},"at7":{"ad":[],"e":[]},"aBk":{"ad":[],"e":[]},"aH1":{"ay":[]},"aas":{"L":[],"e":[]},"aj1":{"N":["aas"]},"Ok":{"L":[],"e":[]},"Ol":{"L":[],"e":[]},"aIq":{"ad":[],"e":[]},"ajr":{"N":["Ok"]},"ajt":{"N":["Ol"]},"abJ":{"ay":[]},"tm":{"ih":[]},"pA":{"ih":[]},"p6":{"ih":[]},"Lk":{"L":[],"e":[]},"agp":{"N":["Lk"]},"M1":{"L":[],"e":[]},"ahS":{"N":["M1"]},"aFC":{"ad":[],"e":[]},"MN":{"L":[],"e":[]},"aj7":{"N":["MN"]},"ZN":{"L":[],"e":[]},"acH":{"N":["ZN"]},"a1u":{"L":[],"e":[]},"ae0":{"N":["a1u"]},"a1v":{"L":[],"e":[]},"aOS":{"N":["a1v"]},"a5T":{"L":[],"e":[]},"afZ":{"N":["a5T"]},"a6J":{"L":[],"e":[]},"aT_":{"N":["a6J"]},"a7N":{"L":[],"e":[]},"aUm":{"N":["a7N"]},"aal":{"L":[],"e":[]},"aiR":{"N":["aal"]},"a2g":{"L":[],"e":[]},"aen":{"N":["a2g"]},"a2k":{"L":[],"e":[]},"aPx":{"N":["a2k"]},"a2l":{"L":[],"e":[]},"aeq":{"N":["a2l"]},"a2m":{"L":[],"e":[]},"aPy":{"N":["a2m"]},"a2n":{"L":[],"e":[]},"Rh":{"ad":[],"e":[]},"aer":{"N":["a2n"]},"a0K":{"ad":[],"e":[]},"a2h":{"L":[],"e":[]},"aPw":{"N":["a2h"]},"a2i":{"ad":[],"e":[]},"EO":{"L":[],"e":[]},"afY":{"N":["EO"]},"Lj":{"L":[],"e":[]},"ago":{"N":["Lj"]},"aak":{"L":[],"e":[]},"aXb":{"N":["aak"]},"a1J":{"L":[],"e":[]},"aOZ":{"N":["a1J"]},"a2o":{"L":[],"e":[]},"aPC":{"N":["a2o"]},"a2p":{"L":[],"e":[]},"aeu":{"N":["a2p"]},"a2r":{"L":[],"e":[]},"aPE":{"N":["a2r"]},"a2s":{"L":[],"e":[]},"aPF":{"N":["a2s"]},"a3z":{"L":[],"e":[]},"aQl":{"N":["a3z"]},"a3B":{"L":[],"e":[]},"aQm":{"N":["a3B"]},"a68":{"L":[],"e":[]},"aSa":{"N":["a68"]},"a6m":{"L":[],"e":[]},"aSf":{"N":["a6m"]},"a6n":{"L":[],"e":[]},"aSg":{"N":["a6n"]},"a8c":{"L":[],"e":[]},"aUR":{"N":["a8c"]},"a8d":{"L":[],"e":[]},"aUS":{"N":["a8d"]},"a8P":{"L":[],"e":[]},"aVp":{"N":["a8P"]},"a9q":{"L":[],"e":[]},"aVZ":{"N":["a9q"]},"abv":{"L":[],"e":[]},"aYq":{"N":["abv"]},"abx":{"L":[],"e":[]},"aju":{"N":["abx"]},"QU":{"ad":[],"e":[]},"LL":{"L":[],"e":[]},"ahC":{"N":["LL"]},"LM":{"L":[],"e":[]},"ahD":{"N":["LM"]},"wW":{"ay":[]},"a5j":{"ay":[]},"a0V":{"L":[],"e":[]},"adE":{"N":["a0V"]},"aOd":{"ay":[]},"a5i":{"L":[],"e":[]},"afz":{"N":["a5i"]},"aeV":{"bz":[],"bq":[],"e":[]},"azW":{"ad":[],"e":[]},"dgb":{"eQ":[],"bz":[],"bq":[],"e":[]}}'))
 A.wI(b.typeUniverse,JSON.parse('{"asB":1}'))
-var y={b:"ActivitiesComponentStrings.hintSearchUsers",k:"ActivitiesComponentStrings.textUnnamedEvent",l:"ActivitiesComponentStrings.textUnnamedPlace",g:"ActivitiesComponentStrings.textUntitledActivity",A:"FeatureFormSettings.validationLinkInvalidChars",E:"FeatureFormSettings.validationLinkRequired"}
+var y={b:"ActivitiesComponentStrings.hintSearchUsers",k:"ActivitiesComponentStrings.textUnnamedEvent",l:"ActivitiesComponentStrings.textUnnamedPlace",g:"ActivitiesComponentStrings.textUntitledActivity",A:"FeatureFormSettings.validationLinkInvalidChars",E:"FeatureFormSettings.validationLinkRequired",e:"https://mkkp.github.io/bodajk2025//#/form/",m:"https://mkkp.github.io/bodajk2025//#/scan/"}
 var x=(function rtii(){var w=A.E
 return{W:w("eF"),V:w("fp"),d9:w("Cv"),Q:w("jC"),o:w("hh"),B:w("j_"),oO:w("hY"),lG:w("yY<O>"),m8:w("cf<S>"),o8:w("wW"),M:w("mJ"),l:w("mK"),ax:w("ZC"),im:w("z4"),oS:w("jg"),cX:w("ab"),x:w("j2"),pj:w("dgb"),ds:w("fQ"),g8:w("eZ"),fB:w("v3"),k:w("aF"),bs:w("a0l<aF>"),t:w("ji"),jG:w("dkD"),jS:w("aK"),od:w("II"),g9:w("asU"),fg:w("dF"),mS:w("tm"),et:w("iQ"),E:w("l9"),dX:w("pA"),gY:w("mT"),J:w("DO"),p8:w("X<~>"),m:w("c<m,O>"),dK:w("JB"),c5:w("RO"),og:w("eN"),c:w("u<eF>"),Z:w("u<fp>"),kE:w("u<Cv>"),C:w("u<jC>"),n:w("u<hh>"),jw:w("u<j_>"),ln:w("u<wW>"),oL:w("u<mJ>"),k6:w("u<mK>"),hE:w("u<d7>"),b:w("u<mR>"),dG:w("u<aF>"),mh:w("u<Dt>"),fU:w("u<II>"),A:w("u<IJ>"),bj:w("u<dF>"),mY:w("u<iy>"),oh:w("u<iQ>"),ih:w("u<l9>"),p9:w("u<ee>"),n4:w("u<nK>"),R:w("u<jV>"),fC:w("u<D<m>>"),hl:w("u<ay>"),bV:w("u<A<l,@>>"),kF:w("u<h1>"),dD:w("u<hD>"),dR:w("u<nT>"),cQ:w("u<KK>"),O:w("u<n4<l>>"),S:w("u<eS>"),lL:w("u<Z>"),ne:w("u<iH>"),gF:w("u<fL>"),mE:w("u<ry>"),s:w("u<l>"),F:w("u<nh>"),kC:w("u<hF>"),v:w("u<p6>"),Y:w("u<d1>"),eE:w("u<mw<S>>"),cL:w("u<hW>"),e5:w("u<er>"),p:w("u<e>"),lC:w("u<m>"),mf:w("u<l?>"),kN:w("u<m?>"),ca:w("u<l?(l?)>"),cK:w("jX<m,@>"),dW:w("jX<m,cf<@>>"),fh:w("jX<m,aM<K?>>"),cP:w("aU<pB>"),d4:w("D<eF>"),cs:w("D<Cv>"),ou:w("D<mJ>"),pi:w("D<mK>"),bR:w("D<dF>"),ms:w("D<tm>"),bS:w("D<iQ>"),mD:w("D<l9>"),kb:w("D<pA>"),an:w("D<A<l,@>>"),nm:w("D<h1>"),mK:w("D<hD>"),hX:w("D<nT>"),d7:w("D<dc>"),gO:w("D<eS>"),bb:w("D<ry>"),bF:w("D<l>"),e8:w("D<hF>"),nH:w("D<d1>"),lD:w("D<hW>"),j:w("D<@>"),jQ:w("bx<m,l>"),P:w("A<l,@>"),av:w("A<@,@>"),o_:w("d8<hD,X<aD>()>"),b2:w("J<ee,kS>"),gQ:w("J<l,l>"),iu:w("J<l,m>"),aI:w("J<hD,X<aD>()>"),fT:w("J<l,D<m>>"),aD:w("b4"),w:w("hB"),hr:w("h0<ES>"),nU:w("h0<k0>"),a:w("aD"),D:w("K"),dy:w("kL"),e:w("h1"),mA:w("vJ"),fy:w("EN"),do:w("hD"),d:w("tN"),m4:w("js"),ie:w("KK"),eQ:w("dc"),mI:w("vR"),oZ:w("n5<l9>"),K:w("eS"),l5:w("pX"),oM:w("a7a"),r:w("Z"),lg:w("aDo"),i7:w("c4<wW>"),u:w("rv"),_:w("kS"),jp:w("ry"),jD:w("cK<er>"),nT:w("hb<dF>"),iU:w("hb<tm>"),ec:w("hb<pA>"),aT:w("hb<eN>"),aK:w("hb<h1>"),jk:w("hb<hD>"),cn:w("hb<js>"),kA:w("hb<dc>"),f9:w("hb<eS>"),gi:w("hb<hF>"),gG:w("hb<hW>"),pc:w("UK"),N:w("l"),G:w("hF"),bZ:w("p6"),gC:w("hd"),hn:w("mw<S>"),bA:w("aM<S>"),fV:w("GC<wW>"),oz:w("hW"),U:w("er"),jZ:w("ck<K>"),mN:w("ck<l>"),jE:w("ck<@>"),dt:w("ck<m?>"),mT:w("eD<l>"),f:w("eD<S>"),ox:w("eD<m?>"),di:w("bL<l>"),jA:w("bL<x>"),l2:w("bL<S>"),p4:w("bL<m?>"),hJ:w("a8<hD>"),cF:w("a8<l>"),oa:w("df<fp>"),gu:w("df<hh>"),cb:w("df<eS>"),hL:w("df<hF>"),bQ:w("df<m>"),l9:w("e"),gM:w("bl"),kR:w("aY<~>"),iv:w("yr"),g:w("kw"),cU:w("am<~>"),eq:w("aeV"),mi:w("BZ"),b8:w("XH"),y:w("x"),i:w("S"),z:w("@"),q:w("m"),hp:w("fp?"),g1:w("hh?"),eH:w("ZM?"),kK:w("bd?"),n8:w("O?"),ok:w("Dt?"),ns:w("auu?"),bd:w("X<~>()?"),aW:w("auM?"),pg:w("a3k?"),df:w("RO?"),oE:w("D<eS>?"),p5:w("D<p6>?"),L:w("D<@>?"),h:w("A<l,@>?"),X:w("K?"),fY:w("hS?"),dm:w("dc?"),gx:w("Z?"),la:w("u1?"),iG:w("cK<er>?"),T:w("l?"),f_:w("qh?"),I:w("m?"),H:w("~"),cj:w("~()")}})();(function constants(){var w=a.makeConstList
 D.aiy=new A.dX(C.V,C.V,Af.q0,Af.q0)
@@ -16187,4 +16187,4 @@ w($,"dNZ","cL9",()=>$.hX().gmT(0))
 w($,"dQy","d9R",()=>B.cZO(null,10))
 w($,"dSr","daP",()=>A.bF("^([0-1]?\\d|2[0-3]):[0-5]\\d$",!0,!1,!1))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_256",e:"endPart",h:b})})($__dart_deferred_initializers__,"1qWb1Jhe3e/m72u3HFl8KC/U66o=");
+a.eventLog.push({p:"main.dart.js_256",e:"endPart",h:b})})($__dart_deferred_initializers__,"ICzVUB7RZZDw5pms0sh3s40zGeQ=");

@@ -494,7 +494,7 @@ o.r=!0
 s=$.a9()
 r=new A.cb(new A.cc(n,C.ap,C.ae),s)
 q=new A.cb(new A.cc(u,C.ap,C.ae),s)
-p=new A.bL("      <p>"+A.p("This event will be available at",null)+y.c+u+'">https://bodajk2025.mkkp.party/#/'+u+"</a></p>\n    ",s,x.L)
+p=new A.bL("      <p>"+A.p("This event will be available at",null)+y.a+u+'">https://mkkp.github.io/bodajk2025//#/'+u+"</a></p>\n    ",s,x.L)
 s=new B.bBR(o,f)
 r.a1(0,new B.bBO(o,r,new B.bBQ(o,r,q,p,s)))
 w=2
@@ -1883,7 +1883,7 @@ $0(){var w=this,v=w.a,u=C.b.gV(E.k6(w.b.a.a).split(" ")).toLowerCase()+v.d.gdt()
 v.b=u
 w.c.scc(0,u)
 v=v.b
-w.d.sn(0,"      <p>"+A.p("This event will be available at",null)+y.c+v+'">https://bodajk2025.mkkp.party/#/'+v+"</a></p>\n    ")
+w.d.sn(0,"      <p>"+A.p("This event will be available at",null)+y.a+v+'">https://mkkp.github.io/bodajk2025//#/'+v+"</a></p>\n    ")
 w.e.$0()},
 $S:0}
 B.bBO.prototype={
@@ -1935,7 +1935,7 @@ v.b=w.b
 v.e=!0
 w.c.$0()
 v=v.b
-w.d.sn(0,"      <p>"+A.p("This event will be available at",null)+y.c+v+'">https://bodajk2025.mkkp.party/#/'+v+"</a></p>\n    ")},
+w.d.sn(0,"      <p>"+A.p("This event will be available at",null)+y.a+v+'">https://mkkp.github.io/bodajk2025//#/'+v+"</a></p>\n    ")},
 $S:0}
 B.bBE.prototype={
 $1(d){this.b.$1(new B.bBB(this.a,d,this.c))},
@@ -2086,7 +2086,7 @@ w(B.aZQ,A.H9)
 v(B.aZR,A.aCW)
 w(B.aZS,A.kO)})()
 A.ce(b.typeUniverse,JSON.parse('{"ZB":{"ad":[],"e":[]},"asG":{"ad":[],"e":[]},"asK":{"ad":[],"e":[]},"TK":{"L":[],"e":[]},"CM":{"cq":[]},"CK":{"cq":[]},"CI":{"cq":[]},"CJ":{"cq":[]},"CL":{"cq":[]},"CN":{"cq":[]},"Xz":{"N":["TK<1>"]},"p8":{"eP":["1"],"cJ":["1"],"cJ.T":"1"},"anu":{"oH":["bL<m>"],"bz":[],"bq":[],"e":[],"oH.T":"bL<m>"},"Xk":{"qC":["+(W,c7,W)"],"aP":[],"e":[],"qC.0":"+(W,c7,W)"},"agR":{"kO":["+(W,c7,W)","Z"],"Z":[],"bu":["Z"],"Y":[],"aQ":[],"kO.0":"+(W,c7,W)"},"DE":{"L":[],"e":[]},"aP4":{"N":["DE"]},"a5L":{"L":[],"e":[]},"afV":{"N":["a5L"]},"SY":{"L":[],"e":[]},"afW":{"N":["SY"]},"aCm":{"ad":[],"e":[]},"M8":{"L":[],"e":[]},"GA":{"L":[],"e":[]},"ajg":{"N":["GA"]},"aVy":{"N":["M8"]},"abr":{"L":[],"e":[]},"aYn":{"N":["abr"]},"a2J":{"ad":[],"e":[]},"SV":{"ad":[],"e":[]}}'))
-var y={c:':<br>\n      <a href="https://bodajk2025.mkkp.party/#/'}
+var y={a:':<br>\n      <a href="https://mkkp.github.io/bodajk2025//#/'}
 var x=(function rtii(){var w=A.E
 return{F:w("ZB<l>"),k:w("ab"),x:w("j2"),K:w("eP<mk>"),g:w("eP<cq>"),v:w("eZ"),I:w("ji"),O:w("mk"),r:w("c<u4,cq>"),q:w("RK"),j:w("eN"),o:w("cq"),Z:w("u<O>"),b:w("u<mR>"),_:w("u<j5>"),h:w("u<kL>"),Q:w("u<n4<l>>"),s:w("u<l>"),Y:w("u<d1>"),d:w("u<mx>"),p:w("u<e>"),f:w("u<l?(l?)>"),i:w("u<~(cJ<cq>)>"),l:w("aU<pB>"),t:w("D<eN>"),U:w("D<kL>"),n:w("D<mx>"),y:w("b4"),w:w("hB"),P:w("aD"),m:w("cn<~(cJ<cq>)>"),e:w("kL"),A:w("Z"),u:w("rv"),C:w("u4"),D:w("hb<eN>"),R:w("hb<mx>"),N:w("l"),G:w("m5"),W:w("mx"),B:w("eD<l>"),L:w("bL<l>"),M:w("bL<m>"),a:w("p8<CI>"),V:w("p8<CJ>"),d0:w("p8<CK>"),S:w("p8<CL>"),J:w("p8<CM>"),E:w("p8<CN>"),c:w("adO"),cc:w("wE"),cB:w("x"),z:w("@"),bL:w("m"),X:w("K?"),T:w("l?"),a_:w("rM?"),H:w("~")}})();(function constants(){var w=a.makeConstList
 D.aiv=new E.z7(K.jZ,C.V,K.jZ,C.V)
@@ -2123,4 +2123,4 @@ D.bNH=A.bE("CI")
 D.bNJ=A.bE("CM")
 D.bNN=A.bE("CL")})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_187",e:"endPart",h:b})})($__dart_deferred_initializers__,"VHR8Z1rBCzT+nJhkzK1RqI7S1Ts=");
+a.eventLog.push({p:"main.dart.js_187",e:"endPart",h:b})})($__dart_deferred_initializers__,"TBu8ggvM+8ZJlLPfr2V5Ttdo83Q=");

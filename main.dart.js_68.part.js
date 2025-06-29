@@ -365,7 +365,7 @@ else x=!1
 if(x){x=n.Q
 q=T.a_z(A.C(x).ax.a===B.q?A.aZ(l):A.aZ(k))
 p=A.p("An account is required to join this event.",m)
-B.b.H(r,A.a([new A.a0(Ab.aQ,L.hO(m,16,'                                <div style="color: '+q+'; text-align: center;">\n                                  <div>'+p+'</div>\n                                  <a href="https://bodajk2025.mkkp.party/#/login" style="color: '+T.a_z(A.C(x).ax.a===B.q?A.aZ(l):A.aZ(k))+';">\n                                    '+A.p("Click here to sign in.",m)+"\n                                  </a>\n                                </div>\n                              ",!0,m,m),m),B.ah],s))}if(!j){j=u.d.$0()
+B.b.H(r,A.a([new A.a0(Ab.aQ,L.hO(m,16,'                                <div style="color: '+q+'; text-align: center;">\n                                  <div>'+p+'</div>\n                                  <a href="https://mkkp.github.io/bodajk2025//#/login" style="color: '+T.a_z(A.C(x).ax.a===B.q?A.aZ(l):A.aZ(k))+';">\n                                    '+A.p("Click here to sign in.",m)+"\n                                  </a>\n                                </div>\n                              ",!0,m,m),m),B.ah],s))}if(!j){j=u.d.$0()
 j=(j==null?!1:j)&&!t}else j=!0
 if(j)r.push(new A.a0(A8.MZ,Q.a8f(m,w,w.length>1,0.35,u.c,u.b,v,new C.caA(u,t)),m))
 if(n.as){j=v.e
@@ -472,4 +472,4 @@ D.ae3=new A.a6(!0,B.l,null,null,null,null,10,B.U,null,0.5,null,null,null,null,nu
 D.bFu=new A.a6(!0,null,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.bGM=new A.a6(!0,null,null,null,null,null,14,B.eT,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_68",e:"endPart",h:b})})($__dart_deferred_initializers__,"6VlHfDMHS08FWc+qWXwzp2K2+4s=");
+a.eventLog.push({p:"main.dart.js_68",e:"endPart",h:b})})($__dart_deferred_initializers__,"MtrcIv65JeEx7ssh9mmQTt4l8ws=");
