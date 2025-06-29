@@ -192,4 +192,3 @@ The app was originally developed by a team of volunteers for [Absolventský Vele
 
 
 
-
