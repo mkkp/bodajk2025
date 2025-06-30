@@ -21417,7 +21417,7 @@ return new A.a5m(x,x,x,x,B.a([],y.ef),$)},
 $S:z+91}
 A.bqm.prototype={
 $1(d){var x
-if(new B.a8(B.a(["https://mkkp.github.io/bodajk2025/"],y.s),new A.bqk(),y.vY).dY(0,new A.bql(d))||C.d.p(d,"localhost")){P.nb(this.a.ok,C.b.gZ(d.split("/#/")),y.dy)
+if(new B.a8(B.a(["https://bodajk2025.mkkp.party/"],y.s),new A.bqk(),y.vY).dY(0,new A.bql(d))||C.d.p(d,"localhost")){P.nb(this.a.ok,C.b.gZ(d.split("/#/")),y.dy)
 return!0}x=this.a
 x=x.as
 if(x!=null)x.$1(d)
@@ -24255,4 +24255,4 @@ x($,"dW2","dd5",()=>B.bF("['&<\\n\\r\\t\\u0001-\\u0008\\u000b\\u000c\\u000e-\\u0
 x($,"dUB","dc5",()=>B.bF('["&<\\n\\r\\t\\u0001-\\u0008\\u000b\\u000c\\u000e-\\u001f\\u007f-\\u0084\\u0086-\\u009f]',!0,!1,!1))
 x($,"dWY","ddC",()=>new A.aKX(new A.cJi(),5,B.I(B.E("GN"),B.E("c2<i6>")),B.E("aKX<GN,c2<i6>>")))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_41",e:"endPart",h:b})})($__dart_deferred_initializers__,"GkFZoj+/Anvs3F3qf3CM9zxgoZ4=");
+a.eventLog.push({p:"main.dart.js_41",e:"endPart",h:b})})($__dart_deferred_initializers__,"RGFJzy9pUpbbqT0cTRaEW/1RyuQ=");

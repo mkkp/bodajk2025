@@ -338,7 +338,7 @@ x=A.dfc(u,t)?6:7
 break
 case 6:x=8
 return B.d(S.j4(d,B.p("New Version Available",null),B.p("Update the app to the latest version to access all features.",null),B.p("Update",null)),$async$amX)
-case 8:if(f)Q.a40("https://mkkp.github.io/bodajk2025/",!0)
+case 8:if(f)Q.a40("https://bodajk2025.mkkp.party/",!0)
 else $.cUB=!0
 case 7:case 4:$.cM9=!1
 case 1:return B.i(v,w)}})
@@ -1501,4 +1501,4 @@ $.cOu=!1})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"dTe","cTx",()=>B.lp(1,1.5,B.E("S")))
 x($,"dT4","dbf",()=>new B.S4())})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_295",e:"endPart",h:b})})($__dart_deferred_initializers__,"ujxBCJSTh071yfKfKjIajMyhqHQ=");
+a.eventLog.push({p:"main.dart.js_295",e:"endPart",h:b})})($__dart_deferred_initializers__,"B5gCY7wq8sNcHZJzTBqG5rr+da0=");

@@ -422,7 +422,7 @@ l.push(A.jz(A.ar(R.iV,A.cL(!1,P.tv(A.aq(A.a([A9.OE,u,A.H(t+": "+s,q,q,q,q,q,q,q,
 w=A.QY(x.e)&&$.dB().gdn().c==null&&!k
 u=U.a_z(A.C(v).ax.a===C.q?A.aZ(p):A.aZ(o))
 t=A.p("An account is required to join this event.",q)
-l.push(A.jz(new A.a0(Aj.aQ,S.hO(q,16,'                      <div style="color: '+u+'; text-align: center;">\n                        <div>'+t+'</div>\n                        <a href="https://mkkp.github.io/bodajk2025//#/login" style="color: '+U.a_z(A.C(v).ax.a===C.q?A.aZ(p):A.aZ(o))+';">\n                          '+A.p("Click here to sign in.",q)+"\n                        </a>\n                      </div>\n                    ",!0,e,d),q),w))
+l.push(A.jz(new A.a0(Aj.aQ,S.hO(q,16,'                      <div style="color: '+u+'; text-align: center;">\n                        <div>'+t+'</div>\n                        <a href="https://bodajk2025.mkkp.party//#/login" style="color: '+U.a_z(A.C(v).ax.a===C.q?A.aZ(p):A.aZ(o))+';">\n                          '+A.p("Click here to sign in.",q)+"\n                        </a>\n                      </div>\n                    ",!0,e,d),q),w))
 k=B.cX2(x.e)&&$.dB().gdn().c!=null&&!k
 l.push(A.jz(new A.a0(C.aq,E.bC(D.bK6,q),q),k))
 k=x.e
@@ -740,4 +740,4 @@ D.bK8=new A.cx("Do you want to sign out participant {participant} from {event}?"
 D.bKi=new A.cx("Sign out",null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.bKm=new A.cx("Sign in other",null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_303",e:"endPart",h:b})})($__dart_deferred_initializers__,"nRtugqtVV8rRrQu2UGLaE/rXDhE=");
+a.eventLog.push({p:"main.dart.js_303",e:"endPart",h:b})})($__dart_deferred_initializers__,"NhyFYeVbY5i65uRWNf8D0qOVDy8=");
