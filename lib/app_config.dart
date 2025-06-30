@@ -17,12 +17,12 @@ class AppConfig {
 
   static const int organization = 1;
   //setup occasion id to force occasion
-  static const String? forceOccasionLink = null;
+  static const String? forceOccasionLink = "bodajk2025"; // = "Bodajk 2025";
   static const bool isPublicNotificationSendingDisabled = false;
   static const bool isAllUnit = false;
   static const bool isAppSupported = true;
 
-  static const String webLink = "https://mkkp.github.io/bodajk2025/";
+  static const String webLink = "https://bodajk2025.mkkp.party/";
   static const String appStoreLink = "";
   static const String playStoreLink = "";
   static const String playStoreLaunchLink = "";
