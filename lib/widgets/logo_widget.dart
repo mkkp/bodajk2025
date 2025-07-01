@@ -35,7 +35,7 @@ class LogoWidget extends StatelessWidget {
       logoAsset,
       height: height,
       width: width,
-      semanticsLabel: 'Festapp logo',
+      semanticsLabel: 'Bodajk 2025 logo',
     )
         : Image.asset(
       logoAsset,

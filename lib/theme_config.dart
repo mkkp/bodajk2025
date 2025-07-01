@@ -49,7 +49,7 @@ class ThemeConfig {
   static Color surfaceColor(BuildContext context) => grey200(context);
   static Color seed1 = const Color(0xFF253759);
   static Color seed2 = const Color(0xFF80BDF2); // brighter
-  static Color seed3 = const Color(0xFF4465A6); // darker
+  static Color seed3 = const Color(0xa6e94a44); // darker
   static Color seed4 = const Color(0xFF0D0D0D);
 
   static Color attentionColor(BuildContext context) => const Color(0xFF8B0000);
